@@ -1,0 +1,15 @@
+# Archivos de acceso directo de Windows
+*.lnk
+
+# Archivos temporales de Office / Excel
+~$*
+*.tmp
+
+# Archivos de sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Archivos de configuración de editores / IDEs
+.vscode/
+.idea/
